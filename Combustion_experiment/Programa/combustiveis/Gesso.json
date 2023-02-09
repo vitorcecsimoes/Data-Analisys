@@ -1,0 +1,16 @@
+{
+"elementar":{
+	"C":0,
+	"H":0,
+	"N":0,
+	"S":0,
+	"Cl":0,
+	"O":0
+	},
+"imediata":{
+	"umidade": 19.43,
+	"volateis": 3.53,
+	"carbono fixo": 3.93,
+	"cinzas": 92.55
+	}
+}

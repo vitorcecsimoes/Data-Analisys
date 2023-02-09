@@ -1,0 +1,3 @@
+Massa de combustível: 1.231 kg
+Altura do combustível: 498.0 mm (0.01893 m³)
+Densidade bulk: 65.02 kg/m³
